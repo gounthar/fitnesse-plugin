@@ -1,0 +1,19 @@
+diff --git a/pom.xml b/pom.xml
+index 4ce90c3..223e48b 100644
+--- a/pom.xml
++++ b/pom.xml
+@@ -3,12 +3,12 @@
+ 	<parent>
+ 		<groupId>org.jenkins-ci.plugins</groupId>
+ 		<artifactId>plugin</artifactId>
+-		<version>3.0</version>
++		<version>4.51</version>
+ 		<relativePath />
+ 	</parent>
+ 
+ 	<properties>
+-		<jenkins.version>2.60.1</jenkins.version>
++		<jenkins.version>2.346.3</jenkins.version>
+ 		<maven.javadoc.skip>true</maven.javadoc.skip>
+ 	</properties>
+ 
